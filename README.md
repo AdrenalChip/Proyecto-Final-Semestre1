@@ -20,5 +20,6 @@ correr en windows:"a.exe"
 
 # Correcciones
 Se realizaron las siguientes correciones:
-  1 las clases se separaron en archivos diferentes al main
+1 las clases se separaron en archivos diferentes al main
+2 un cambio en el diagrama de clases 
   
