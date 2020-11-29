@@ -9,6 +9,9 @@ Una pequeña simulacion de un combate por turnos al buen estilo rpg, pero muy ru
 El programa solo permite ingresar un jugador, una bestia ya predefinida;
 Tiene procesos de seleccion para que el jugador sea el que decida que realizar, ya sea su clase, habilidades o simplemente atacar.
 
+# Estructura
+Es necesario tener los tres archivos descargados en una misma carpeta, los dos archivos .h, ClaseBichosChungos y PROYECTOCONHERENCIAS, y el .cpp, llamado MAIN.
+
 # Consideraciones 
 El programa solo corre en consola,esta hecho con c++ standard por lo que corre en todos los sistemas operativos 
 compilar con: "g++ PROYECTOCONHERENCIAS.h ClaseBichoChungo.h MAIN.cpp"
