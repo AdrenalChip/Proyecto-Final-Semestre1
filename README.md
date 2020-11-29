@@ -20,8 +20,12 @@ correr en windows:"a.exe"
 
 # Correcciones
 Se realizaron las siguientes correciones:
+
 1 las clases se separaron en archivos diferentes al main
-2 un cambio en el diagrama de clases 
-3 se establecio una relacion entre dos clases diferentes 
+
+2 un cambio en el diagrama de clases,con un diseño adecuado de herencias
+
+3 Elemento de composicion tanto en el UML como en el codigo 
+
 4 se generaron 4 subclases en total
 
