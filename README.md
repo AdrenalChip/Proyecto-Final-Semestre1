@@ -21,11 +21,11 @@ correr en windows:"a.exe"
 # Correcciones
 Se realizaron las siguientes correciones:
 
-1 las clases se separaron en archivos diferentes al main
+1 las clases se separaron en archivos diferentes al main 
 
-2 un cambio en el diagrama de clases,con un diseño adecuado de herencias
+2 Un cambio en mi UML, generando herencias de una manera adecuada
 
-3 Elemento de composicion tanto en el UML como en el codigo 
+3 Elemento de composicion tanto en el UML como en el codigo,indicado con una flecha simple en el UML
 
-4 se generaron 4 subclases en total
+4 se generaron 4 subclases en total con componentes de agregacion siguiendo adecuadamente mi UML 
 
