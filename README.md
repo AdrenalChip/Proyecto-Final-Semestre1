@@ -22,4 +22,6 @@ correr en windows:"a.exe"
 Se realizaron las siguientes correciones:
 1 las clases se separaron en archivos diferentes al main
 2 un cambio en el diagrama de clases 
-  
+3 se establecio una relacion entre dos clases diferentes 
+4 se generaron 4 subclases en total
+
