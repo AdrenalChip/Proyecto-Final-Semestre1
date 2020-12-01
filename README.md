@@ -14,8 +14,12 @@ Es necesario tener los tres archivos descargados en una misma carpeta, los dos a
 
 # Consideraciones 
 El programa solo corre en consola,esta hecho con c++ standard por lo que corre en todos los sistemas operativos 
-compilar con: "g++ PROYECTOCONHERENCIAS.h ClaseBichoChungo.h MAIN.cpp"
+compilar con:
+
+"g++ PROYECTOCONHERENCIAS.h ClaseBichoChungo.h MAIN.cpp"
+
 correr en linux: "/a.out"
+
 correr en windows:"a.exe"
 
 # Correcciones
@@ -25,7 +29,5 @@ Se realizaron las siguientes correciones:
 
 2 Un cambio en mi UML, generando herencias de una manera adecuada
 
-3 Elemento de composicion tanto en el UML como en el codigo,indicado con una flecha simple en el UML
-
-4 se generaron 4 subclases en total con componentes de agregacion siguiendo adecuadamente mi UML 
+3 se generaron 4 subclases en total siguiendo adecuadamente mi UML 
 
